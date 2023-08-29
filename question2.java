@@ -2,7 +2,6 @@ public class TwoDArrayExample {
     public static void main(String[] args) {
         int[][] twoDArray = {
             {30},
-            {30},
             {300, 500},
             {3000, 5000, 5000}
         };
